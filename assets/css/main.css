@@ -179,7 +179,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.10em;
 		letter-spacing: -0.015em;
 	}
 
@@ -1918,7 +1918,7 @@ input, select, textarea {
 	}
 
 		.box.style1 {
-			padding: 3em 2em 3.5em 2em;
+			padding: 3em 1em 2em 1em;
 		}
 
 			.box.style1 h3 {
